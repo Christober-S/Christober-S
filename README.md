@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMU4OD0au-2NII3-u_3F0ozgE74aslKWj4NxYr-_7AQ&usqp=CAU&ec=48600113)]
+
 <h1 align="center">Hi 👋, I'm Christober S</h1>
 <h3 align="center">A passionate DevOps and cloud enthusiast</h3>
 
